@@ -1,9 +1,9 @@
-/*
- * Elevator Saga code challenge
- * https://play.elevatorsaga.com/
- */
-
 {
+  /*
+   * Elevator Saga code challenge
+   * https://play.elevatorsaga.com/
+   */
+
   init: function(elevators, floors) {
       var elevator = elevators[0]; // Let's use the first elevator
 
