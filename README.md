@@ -8,7 +8,7 @@ Code challenge
 
 ## Versions
 
-- There is a release per challenge #.  Apply the corresponding release to the challenge
+- There is a release per challenge #.  Apply the release code to the corresponding challenge #
 - Skip to a specific challenge by changing the challenge number: https://play.elevatorsaga.com/#challenge=1
 
 ## Props
